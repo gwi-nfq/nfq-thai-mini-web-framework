@@ -12,3 +12,4 @@ Prerequisites
 - PHP >= v7.2
 - MariaDB >= v.10
 - Postman
+- Docker
